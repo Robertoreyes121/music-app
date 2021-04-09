@@ -9,6 +9,7 @@ function Album() {
     <div className="container">
       <h3>This is the Album component.</h3>
       <AlbumArt />
+      <AlbumArt />
       <TrackList />
     </div>
   );
